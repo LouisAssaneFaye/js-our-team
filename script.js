@@ -1,50 +1,44 @@
 const array = [
     
     {
-        nome: " Wayne " ,
-        cognome: " Barnett " ,
+        nome: " Wayne Barnett " ,
         ruolo: " Founder & CEO " ,
-        foto: " "
+        foto: " wayne-barnett-founder-ceo.jpg "
 
     },
 
     {
-        nome: " Angela " ,
-        cognome: " Caroll " ,
+        nome: " Angela Caroll " ,
         ruolo: " Chief Editor " ,
-        foto: " "
+        foto: " angela-caroll-chief-editor.jpg "
 
     },
 
     {
-        nome: " Walter " ,
-        cognome: " Gordon " ,
+        nome: " Walter Gordon " ,
         ruolo: " Official manager " ,
-        foto: " "
+        foto: " walter-gordon-office-manager.jpg "
 
     },
 
     {
-        nome: " Angela" ,
-        cognome: " Lopez " ,
+        nome: " Angela Lopez " ,
         ruolo: " Social media manager " ,
         foto: " "
 
     },
 
     {
-        nome: " Scott " ,
-        cognome: " Estrada " ,
+        nome: " Scott Estrada " ,
         ruolo: " Developer " ,
-        foto: " "
+        foto: " angela-lopez-social-media-manager.jpg "
 
     },
 
     {
-        nome: " Barbara " ,
-        cognome: " Ramos " ,
+        nome: " Barbara Ramos " ,
         ruolo: " Graphic designer " ,
-        foto: " "
+        foto: " barbara-ramos-graphic-designer.jpg "
 
     }
 
